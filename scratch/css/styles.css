@@ -1,0 +1,37 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(200, 0, 40);
+    color: rgb(255, 182, 94);
+    background-image: url("../../assets/img/home-bg.jpeg");
+    background-repeat: repeat-y;
+    background-size: cover;
+
+}
+
+a {
+    color: #e84a10;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+img {
+    border: 5px solid black;
+    /* gives the border to the image with point  */
+    padding: 3px;
+    /* adjusts the distance of the border from the image */
+    height: 450px;
+    width: 900px;
+    margin: auto;
+    display: block;
+}
+
+/* . means total made up, not existence in HTML so far */
+
+
+
+li {
+    width: fit-content
+}
